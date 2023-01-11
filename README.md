@@ -1,0 +1,2 @@
+# Análise de dados
+Análise de dados de uma empresa de telecomunicações utilizando Python e desenvolvido no Jupyter Notebook. Atividade do Intensivão de Python da Hashtag. Análise de dados de uma empresa de telecomunicações utilizando Python e desenvolvido no Jupyter Notebook. Atividade do Intensivão de Python da Hashtag.  O objetivo foi analisar os dados de churn dos clientes e identificar os serviços com mais cancelamentos e propor medidas de correção.
